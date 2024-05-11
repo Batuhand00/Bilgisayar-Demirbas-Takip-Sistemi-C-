@@ -1,0 +1,19 @@
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\Bitirme PROJESİ.exe.config
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\Bitirme PROJESİ.exe
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\Bitirme PROJESİ.pdb
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme PROJESİ.csproj.AssemblyReference.cache
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme_PROJESİ.Properties.Resources.resources
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme PROJESİ.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme PROJESİ.exe
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme PROJESİ.pdb
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme_PROJESİ.frmKasaBilgileri.resources
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\MySql.Data.dll
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\System.Memory.dll
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\System.Buffers.dll
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\bin\Debug\MySql.Data.xml
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme_PROJESİ.frmAna.resources
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme_PROJESİ.frmGenelDonanım.resources
+C:\Users\demir\Desktop\proje\Bitirme PROJESİ\Bitirme PROJESİ\obj\Debug\Bitirme .137E8A00.Up2Date
